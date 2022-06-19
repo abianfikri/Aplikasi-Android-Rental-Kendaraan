@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rental_Test</string>
+
+    <!--  Bagian String Main Activity  -->
+    <string name="tnama">Nama</string>
+    <string name="tpass">Password</string>
+    <string name="tregister">Register</string>
+
+    <!-- String Welocme -->
+    <string name="welcome">Welcome To My App</string>
+    <string name="gRegister">Jika belum punya Akun silahkan?</string>
+
+    <!--  String Button  -->
+    <string name="tLogin">Login</string>
+</resources>
